@@ -19,11 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db55588c-eb4d-41db-bf3c-663ed6fc1d68" name="Default Changelist" comment="" />
+    <list default="true" id="db55588c-eb4d-41db-bf3c-663ed6fc1d68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DeepLearning/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
@@ -33,17 +50,25 @@
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="ProjectId" id="1wQx9N2qAMglsrUVyZSZIRnh8Yr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MachineLearning" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\githubClone\GitHub\handsnFir\MachineLearning" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +80,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628404461952</updated>
-      <workItem from="1628404470850" duration="5981000" />
+      <workItem from="1628404470850" duration="6330000" />
+      <workItem from="1628424228162" duration="95000" />
+      <workItem from="1628424332838" duration="11948000" />
     </task>
     <servers />
   </component>
@@ -72,23 +99,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="842" y="381" key="#Notifications" timestamp="1628404489556">
+    <state x="842" y="381" key="#Notifications" timestamp="1628424339528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="842" y="381" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1628404489556" />
+    <state x="842" y="381" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1628424339528" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628404507956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1628404507956" />
-    <state x="461" y="151" width="995" height="738" key="SettingsEditor" timestamp="1628406350166">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1628513962241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="151" width="995" height="738" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1628406350166" />
-    <state x="1044" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1628405254876">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1628513962241" />
+    <state x="461" y="151" width="995" height="738" key="SettingsEditor" timestamp="1628424567174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1044" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1628405254876" />
+    <state x="461" y="151" width="995" height="738" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1628424567174" />
+    <state x="1044" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1628501714274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1044" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1628501714274" />
   </component>
 </project>
