@@ -1666,6 +1666,14 @@ input, select, textarea {
 			width: 33.3%;
 			float:left;
 		}
+		div.footer__title{
+			margin-left: auto;
+			transform: translateX(14px);
+			
+		}
+		ul.footer__items{
+			margin-left: auto;
+		}
 		li.footer__item{
 			list-style: none;
 		}
